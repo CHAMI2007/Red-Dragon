@@ -53,7 +53,7 @@ global.botname = 'CHAMI-V1 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "CHAMI-V1" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ KING-CHAMI-ᴍᴅ ]' //
 
 //database
 global.premium = ['+94742952930'] //ur premium numbers
